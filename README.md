@@ -1,5 +1,17 @@
 # Medical-Chatbot
+A retrieval-augmented AI chatbot designed to provide users with personalized and timely medical information and preliminary symptom analysis. The system combines advanced NLP techniques, language modeling, and a curated medical knowledge base to deliver context-relevant responses.
 
+🔍 Key Features
+Symptom Checker & Preliminary Assessment: Enables users to describe their symptoms in natural language and receive informed insights about potential conditions.
+
+Knowledge‑Driven Responses: Relying on a document corpus (e.g., medical journals or encyclopedias), the chatbot retrieves supporting information to ensure accurate, contextual guidance.
+
+Retrieval-Augmented Generation (RAG): Enhances response reliability by grounding AI-generated replies on trusted medical content 
+GitHub
+GitHub
+.
+
+Conversational Interface: Mimics doctor–patient dialogue using prompts fine-tuned for empathy and clarity, while clearly redirecting serious or ambiguous cases to human professionals.
 # How to run?
 ### STEPS:
 
